@@ -11,7 +11,7 @@ const Navbar = () => {
         <a href="#projects" className="btn btn-ghost btn-sm">Projects</a>
         <a href="#contact" className="btn btn-ghost btn-sm">Contact</a>
         <a
-          href="/resume/Aathis_Kumar_Resume.pdf"
+          href="/public/resume.pdf"
           target="_blank"
           className="btn btn-primary btn-sm"
         >
